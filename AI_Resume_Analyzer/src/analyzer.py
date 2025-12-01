@@ -1,0 +1,1 @@
+# Placeholder script for resume analyzer
