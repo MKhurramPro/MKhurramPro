@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MKhurramPro&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -76,19 +76,19 @@ I create **AI-powered solutions**, **ML pipelines**, and **full-stack apps** tha
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MKhurramPro&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKhurramPro&layout=compact&theme=radical" />
 </p>
 
 ---
 
 # 🔥 **GitHub Streak & Trophy**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKhurramPro&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MKhurramPro&theme=radical&row=1&column=6" />
 </p>
 
 ---
