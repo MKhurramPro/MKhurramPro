@@ -85,8 +85,9 @@ I create **AI-powered solutions**, **ML pipelines**, and **full-stack apps** tha
 ---
 
 # 🔥 **GitHub Streak & Trophy**
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKhurramPro&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MKhurramPro&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
