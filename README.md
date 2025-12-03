@@ -76,9 +76,11 @@ I create **AI-powered solutions**, **ML pipelines**, and **full-stack apps** tha
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MKhurramPro&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKhurramPro&layout=compact&theme=radical" />
-</p>
+<a href="https://github.com/MKhurramPro">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MKhurramPro&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKhurramPro&layout=compact&langs_count=8&theme=nightowl"/>
+
+
 
 ---
 
