@@ -95,7 +95,12 @@ I create **AI-powered solutions**, **ML pipelines**, and **full-stack apps** tha
 </p>
 
 ---
+### 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKhurramPro&theme=tokyo-night" />
+</p>
 
+---
 # 🌐 **Connect With Me**
 
 <p align="center">
